@@ -1,0 +1,8 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <extensionMap>
+      <mapping pattern="grab_latest_arrival.sql" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

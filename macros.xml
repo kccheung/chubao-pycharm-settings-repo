@@ -1,0 +1,9 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="save and format, tab to spaces">
+      <action id="ReformatCode" />
+      <action id="ConvertIndentsToSpaces" />
+      <action id="SaveAll" />
+    </macro>
+  </component>
+</application>
