@@ -1,10 +1,13 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="without_log_config" />
-    <option name="defaultScopeName" value="without_log_config" />
-    <option name="localCaseSensitive" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="without_log_config" />
+    <option name="customScope" value="ekeo" />
+    <option name="defaultScopeName" value="ekeo" />
+    <option name="regularExpressions" value="true" />
+    <option name="skipResultsWithOneUsage" value="true" />
+    <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="ekeo" />
+    <option name="FILE_MASK" value="*.py, *.config" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -17,6 +20,7 @@
       <mask>*.mxml</mask>
       <mask>*.config</mask>
       <mask>*.py</mask>
+      <mask>*.py, *.config</mask>
     </recentFileMasks>
   </component>
 </application>

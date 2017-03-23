@@ -1,0 +1,19 @@
+<application>
+  <component name="RemoteServers">
+    <remote-server name="Docker" type="docker">
+      <configuration>
+        <option name="certificatesPath" value="$USER_HOME$/.docker/machine/machines/default" />
+      </configuration>
+    </remote-server>
+    <remote-server name="socat_docker" type="docker">
+      <configuration>
+        <option name="apiUrl" value="tcp://localhost:2375" />
+      </configuration>
+    </remote-server>
+    <remote-server name="socat_docker" type="docker">
+      <configuration>
+        <option name="apiUrl" value="tcp://localhost:2375" />
+      </configuration>
+    </remote-server>
+  </component>
+</application>
