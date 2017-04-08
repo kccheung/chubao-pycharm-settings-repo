@@ -8,5 +8,6 @@
     <entry key="ide.firstStartup" value="false" />
     <entry key="debugger.watches.in.variables" value="false" />
     <entry key="ide.editor.tabs.open.at.the.end" value="true" />
+    <entry key="ide.ssh.one.time.password" value="true" />
   </component>
 </application>
