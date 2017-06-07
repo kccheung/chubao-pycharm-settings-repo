@@ -24,6 +24,7 @@
       <mask>*.py, *.config, *.</mask>
       <mask>*.py, *.config, *.h</mask>
       <mask>*.py, *.config, *.htmlENTITY_CODES_FOR_WAIT_TIME_60_MINS</mask>
+      <mask>*.py, *.config, *.htmlnotification/pop/notification_number</mask>
       <mask>*.py, *.config, *.html</mask>
     </recentFileMasks>
   </component>
