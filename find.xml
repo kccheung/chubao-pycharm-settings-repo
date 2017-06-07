@@ -5,7 +5,7 @@
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.py, *.config, *.htmlENTITY_CODES_FOR_WAIT_TIME_60_MINS" />
+    <option name="FILE_MASK" value="*.py, *.config, *.html" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -23,8 +23,8 @@
       <mask>*.py, *.config, *</mask>
       <mask>*.py, *.config, *.</mask>
       <mask>*.py, *.config, *.h</mask>
-      <mask>*.py, *.config, *.html</mask>
       <mask>*.py, *.config, *.htmlENTITY_CODES_FOR_WAIT_TIME_60_MINS</mask>
+      <mask>*.py, *.config, *.html</mask>
     </recentFileMasks>
   </component>
 </application>
