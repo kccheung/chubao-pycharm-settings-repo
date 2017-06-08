@@ -1,0 +1,5 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Kite" shouldLog="false" />
+  </component>
+</application>
