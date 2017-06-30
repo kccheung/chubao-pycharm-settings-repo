@@ -5,6 +5,7 @@
       <mapping pattern="grab_latest_arrival.sql" type="PLAIN_TEXT" />
       <mapping pattern="celerybeat-schedule" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="crontab" type="PLAIN_TEXT" />
       <mapping ext="pkl" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
