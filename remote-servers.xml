@@ -10,9 +10,9 @@
         <option name="apiUrl" value="tcp://localhost:2375" />
       </configuration>
     </remote-server>
-    <remote-server name="socat_docker" type="docker">
+    <remote-server name="powerarena_docker" type="docker">
       <configuration>
-        <option name="apiUrl" value="tcp://localhost:2375" />
+        <option name="apiUrl" value="tcp://52.77.215.68:8180" />
       </configuration>
     </remote-server>
   </component>
