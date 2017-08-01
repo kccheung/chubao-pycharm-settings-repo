@@ -1,0 +1,9 @@
+<application>
+  <component name="DockerRegistry">
+    <DockerRegistry email="david.cheung@motherapp.com">
+      <option name="address" value="docker.motherapp.cn" />
+      <option name="name" value="mocha" />
+      <option name="username" value="motherapp" />
+    </DockerRegistry>
+  </component>
+</application>
