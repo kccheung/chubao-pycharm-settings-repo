@@ -1,3 +1,9 @@
 <code_scheme name="Default (2)">
-  <option name="RIGHT_MARGIN" value="600" />
+  <option name="LINE_SEPARATOR" value="&#10;" />
+  <option name="RIGHT_MARGIN" value="300" />
+  <codeStyleSettings language="JSON">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="4" />
+    </indentOptions>
+  </codeStyleSettings>
 </code_scheme>
