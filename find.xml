@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js, *.py" />
+    <option name="FILE_MASK" value="*.js, *.py, *.html" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -24,6 +24,12 @@
       <mask>*.js,</mask>
       <mask>*.js, *</mask>
       <mask>*.js, *.py</mask>
+      <mask>*.js, *.py,</mask>
+      <mask>*.js, *.py, *</mask>
+      <mask>*.js, *.py, *.</mask>
+      <mask>*.js, *.py, *.h</mask>
+      <mask>*.js, *.py, *.ht</mask>
+      <mask>*.js, *.py, *.html</mask>
     </recentFileMasks>
   </component>
 </application>
