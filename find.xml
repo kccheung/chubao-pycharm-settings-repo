@@ -32,6 +32,7 @@
       <mask>*.js, *.py, *.html, *</mask>
       <mask>*.js, *.py, *.html, *.c</mask>
       <mask>*.js, *.py, *.html, *.cs</mask>
+      <mask>*.html, *.css</mask>
       <mask>*.js, *.py, *.html, *.css</mask>
     </recentFileMasks>
   </component>
