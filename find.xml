@@ -3,20 +3,12 @@
     <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.py" />
+    <option name="FILE_MASK" value="*.py, *.js, *.html" />
     <recentFileMasks>
-      <mask>*.js, *.py, *.html,</mask>
-      <mask>*.js, *.py, *.html, *</mask>
-      <mask>*.js, *.py, *.html, *.c</mask>
-      <mask>*.js, *.py, *.html, *.cs</mask>
-      <mask>*.html, *.css</mask>
-      <mask>*.js, *.py, *.html, *.css</mask>
-      <mask>*.py, *.html, *.css</mask>
-      <mask>*.py, *.html,</mask>
-      <mask>*.py, *h</mask>
-      <mask>*.py, *ht</mask>
       <mask>*.py, *.html,</mask>
       <mask>*.py, *.html, *</mask>
       <mask>*.py, *.html, *.</mask>
@@ -29,7 +21,6 @@
       <mask>*.py, *html, *.</mask>
       <mask>*.py, *html, *.j</mask>
       <mask>*.py, *html, *.js</mask>
-      <mask>*.py,</mask>
       <mask>*.py, *</mask>
       <mask>*.py, *</mask>
       <mask>*.py, *.</mask>
@@ -37,6 +28,17 @@
       <mask>*.py, *.ht</mask>
       <mask>*.py, *.html</mask>
       <mask>*.py</mask>
+      <mask>*.py,</mask>
+      <mask>*.py, .</mask>
+      <mask>*.py, .j</mask>
+      <mask>*.py, .js</mask>
+      <mask>*.py, *.js</mask>
+      <mask>*.py, *.js,</mask>
+      <mask>*.py, *.js, *</mask>
+      <mask>*.py, *.js, *.</mask>
+      <mask>*.py, *.js, *.h</mask>
+      <mask>*.py, *.js, *.ht</mask>
+      <mask>*.py, *.js, *.html</mask>
     </recentFileMasks>
   </component>
 </application>
