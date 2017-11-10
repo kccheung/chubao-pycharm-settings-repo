@@ -7,13 +7,8 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.py, *.js, *.html" />
+    <option name="FILE_MASK" value="*.py, *.js, *.html, *.txt" />
     <recentFileMasks>
-      <mask>*.py, *.html,</mask>
-      <mask>*.py, *.html, *</mask>
-      <mask>*.py, *.html, *.</mask>
-      <mask>*.py, *.html, *.js</mask>
-      <mask>*.py,</mask>
       <mask>*.py,</mask>
       <mask>*.py, *html</mask>
       <mask>*.py, *html,</mask>
@@ -39,6 +34,11 @@
       <mask>*.py, *.js, *.h</mask>
       <mask>*.py, *.js, *.ht</mask>
       <mask>*.py, *.js, *.html</mask>
+      <mask>*.py, *.js, *.html,</mask>
+      <mask>*.py, *.js, *.html, *</mask>
+      <mask>*.py, *.js, *.html, *.</mask>
+      <mask>*.py, *.js, *.html, *.t</mask>
+      <mask>*.py, *.js, *.html, *.txt</mask>
     </recentFileMasks>
   </component>
 </application>
