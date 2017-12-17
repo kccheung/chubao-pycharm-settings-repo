@@ -1,5 +1,5 @@
 <application>
   <component name="kite">
-    <option name="fs" value="false" />
+    <option name="showWelcomeTour" value="false" />
   </component>
 </application>
