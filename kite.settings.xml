@@ -1,6 +1,7 @@
 <application>
   <component name="kite">
-    <option name="mouseOverDelayEnabled" value="true" />
+    <option name="mouseOverFontSizeEnabled" value="true" />
+    <option name="mouseOverFontSize" value="14" />
     <option name="showWelcomeNotification" value="false" />
     <option name="editorMetricsEnabled" value="false" />
   </component>
