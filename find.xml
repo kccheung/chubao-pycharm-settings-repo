@@ -3,9 +3,8 @@
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.py, *.js, *.html, *.txt" />
+    <option name="FILE_MASK" value="*.py, *.js, *.html, *.txt, *.css" />
     <recentFileMasks>
-      <mask>*.py,</mask>
       <mask>*.py, *html</mask>
       <mask>*.py, *html,</mask>
       <mask>*.py, *html, *</mask>
@@ -35,6 +34,7 @@
       <mask>*.py, *.js, *.html, *.</mask>
       <mask>*.py, *.js, *.html, *.t</mask>
       <mask>*.py, *.js, *.html, *.txt</mask>
+      <mask>*.py, *.js, *.html, *.txt, *.css</mask>
     </recentFileMasks>
   </component>
 </application>
