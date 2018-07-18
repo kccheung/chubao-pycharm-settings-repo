@@ -7,7 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.py, *.js, *.html" />
+    <option name="FILE_MASK" value="*.py, *.js, *.html, *.po" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -19,5 +19,6 @@
     <mask>*.mxml</mask>
     <mask>*.py</mask>
     <mask>*.py, *.js, *.html</mask>
+    <mask>*.py, *.js, *.html, *.po</mask>
   </component>
 </application>
