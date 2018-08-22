@@ -3,7 +3,7 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.py, *.js, *.html, *.po" />
+    <option name="FILE_MASK" value="*.py, *.js, *.html, *.po, *.css" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -16,5 +16,6 @@
     <mask>*.py</mask>
     <mask>*.py, *.js, *.html</mask>
     <mask>*.py, *.js, *.html, *.po</mask>
+    <mask>*.py, *.js, *.html, *.po, *.css</mask>
   </component>
 </application>
