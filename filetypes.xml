@@ -11,6 +11,7 @@
       <mapping ext="pkl" type="PLAIN_TEXT" />
       <mapping ext="powerarena" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="ipynb" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
       <mapping pattern="bnan_min_lotsize" type="Python" />
       <mapping pattern="Dockerfile-base" type="Dockerfile" />
