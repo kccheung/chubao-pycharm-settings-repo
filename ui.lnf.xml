@@ -4,7 +4,7 @@
   </component>
   <component name="UISettings">
     <option name="FONT_FACE" value=".SFNSText-Regular" />
-    <option name="HIDE_TOOL_STRIPES" value="false" />
+    <option name="FONT_SCALE" value="1.0" />
     <option name="SHOW_EDITOR_TOOLTIP" value="false" />
     <option name="SHOW_MAIN_TOOLBAR" value="true" />
     <option name="SHOW_MEMORY_INDICATOR" value="true" />
