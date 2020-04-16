@@ -1,7 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping ext="ipynb" type="PLAIN_TEXT" />
       <mapping pattern="*.js.flow" type="Flow" />
     </extensionMap>
   </component>
