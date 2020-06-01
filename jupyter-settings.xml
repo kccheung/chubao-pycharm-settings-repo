@@ -1,0 +1,23 @@
+<application>
+  <component name="JupyterPersistentConnectionParameters">
+    <option name="knownRemoteServers">
+      <list>
+        <JupyterConnectionParameters>
+          <option name="token" value="e4b253989094069eef42a936c6d09ccfd6c6e1a2ca2a23c8" />
+          <option name="urlString" value="http://127.0.0.1:8889/" />
+        </JupyterConnectionParameters>
+      </list>
+    </option>
+    <option name="moduleParameters">
+      <map>
+        <entry key="$USER_HOME$/app/bitmex-marketstore-trade-feeder/.idea/bitmex-marketstore-trade-feeder.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="managed" value="true" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>
