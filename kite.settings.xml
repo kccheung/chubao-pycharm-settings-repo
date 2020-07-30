@@ -2,6 +2,5 @@
   <component name="kite">
     <option name="paramInfoFontSizeEnabled" value="true" />
     <option name="paramInfoFontSize" value="20" />
-    <option name="showWelcomeNotification" value="false" />
   </component>
 </application>
