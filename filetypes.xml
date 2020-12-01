@@ -1,9 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="cfg" type="PLAIN_TEXT" />
       <mapping ext="ipynb" type="PLAIN_TEXT" />
       <mapping ext="session" type="PLAIN_TEXT" />
-      <mapping ext="cfg" type="PLAIN_TEXT" />
       <mapping pattern="*.js.flow" type="Flow" />
     </extensionMap>
   </component>
