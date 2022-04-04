@@ -6,7 +6,7 @@
     </Languages>
   </inspection_tool>
   <inspection_tool class="PyBroadExceptionInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
-  <inspection_tool class="PyChainedComparisonsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+  <inspection_tool class="PyChainedComparisonsInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false">
     <option name="ignoreConstantInTheMiddle" value="true" />
   </inspection_tool>
   <inspection_tool class="PyCompatibilityInspection" enabled="true" level="WARNING" enabled_by_default="true">
@@ -41,6 +41,7 @@
       </list>
     </option>
   </inspection_tool>
+  <inspection_tool class="PyTypeCheckerInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredIdentifiers">
       <list>

@@ -1,6 +1,7 @@
 <application>
   <component name="NotificationConfiguration">
     <notification groupId="Docker: Dockerfile detection" displayType="NONE" shouldLog="false" />
+    <notification groupId="Plugin Error" displayType="NONE" />
     <notification groupId="Python Compatibility Inspection Advertiser" displayType="NONE" shouldLog="false" />
   </component>
 </application>
