@@ -9,7 +9,6 @@
         <entry key="basic completion" value="NOT_PASSED" />
         <entry key="codeassistance.codeformatting" value="NOT_PASSED" />
         <entry key="codeassistance.editorcodingassistance" value="NOT_PASSED" />
-        <entry key="codeassistance.localhistory" value="NOT_PASSED" />
         <entry key="codeassistance.parameterinfo" value="NOT_PASSED" />
         <entry key="codeassistance.quickpopups" value="NOT_PASSED" />
         <entry key="collapse" value="NOT_PASSED" />
@@ -21,12 +20,10 @@
         <entry key="extract method" value="NOT_PASSED" />
         <entry key="extract variable" value="NOT_PASSED" />
         <entry key="file structure" value="NOT_PASSED" />
-        <entry key="find in files" value="NOT_PASSED" />
         <entry key="move" value="NOT_PASSED" />
         <entry key="multiple selections" value="NOT_PASSED" />
         <entry key="postfix completion" value="NOT_PASSED" />
         <entry key="python.debug.workflow" value="NOT_PASSED" />
-        <entry key="python.onboarding" value="NOT_PASSED" />
         <entry key="python.run.configuration" value="NOT_PASSED" />
         <entry key="recent files and locations" value="NOT_PASSED" />
         <entry key="refactoring menu" value="NOT_PASSED" />
