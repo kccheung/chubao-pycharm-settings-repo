@@ -13,7 +13,7 @@
     <option name="FONT_FAMILY" value="Menlo" />
   </component>
   <component name="EditorSettings">
-    <option name="USE_SOFT_WRAPS" value="CONSOLE" />
+    <option name="USE_SOFT_WRAPS" value="" />
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
     <option name="SHOW_BREADCRUMBS" value="false" />
   </component>
