@@ -1,6 +1,6 @@
-<code_scheme name="Default (1)">
-  <option name="RIGHT_MARGIN" value="200" />
-  <XML>
-    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
-  </XML>
+<code_scheme name="Default (1)" version="173">
+  <option name="RIGHT_MARGIN" value="225" />
+  <codeStyleSettings language="Python">
+    <option name="WRAP_ON_TYPING" value="0" />
+  </codeStyleSettings>
 </code_scheme>
